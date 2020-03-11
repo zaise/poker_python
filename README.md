@@ -28,7 +28,8 @@ First use a string to enter the hand using the notation: ("KS 2H 5C JD TD") wher
     D (Diamonds), 
     C (Clubs)
 
-- Rules
+Rules
+
 ![Poker Rules](http://www.pokersyte.com/basic/hand-rankings.jpg)
 
 ### Prerequisites
