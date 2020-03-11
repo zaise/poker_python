@@ -10,20 +10,20 @@ The program contains a test routine, apart from the main class called PokerHand.
 First use a string to enter the hand using the notation: ("KS 2H 5C JD TD") where each of the letters has the following meaning:
 - A Poker hand is consists for 5 cards;
 - Each card has a string with 2 (two) characters.
-        - The first character is the card value and it can have the values below, ranked from lowest to highest:
-            2
-            3
-            4
-            5
-            6
-            7
-            8
-            9
-            T (10)
-            J (Jack)
-            Q (Queen)
-            K (King)
-            A (Ace)
+- The first character is the card value and it can have the values below, ranked from lowest to highest:
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9
+    T (10)
+    J (Jack)
+    Q (Queen)
+    K (King)
+    A (Ace)
         - The second character is the card suit and it can assume the values below.
             S (Spades)
             H (Hearts)
